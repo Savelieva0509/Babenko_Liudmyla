@@ -11,7 +11,7 @@
 - ⭐ 3 command projects and 7 pet-projects
 - 📢 Background as a digital marketing manager
 - 🌎 Intermediate level English
-- 📪 Reach me by [email](mailto:savelieva0509@gmail.com)
+- 📪 Reach me by email: savelieva0509@gmail.com
 
 ---
 
