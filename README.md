@@ -7,7 +7,7 @@
 
 - 👨🏼‍💻 I'm Junior Frondend Developer
 - 💻 I have experience working with backend Node.js
-- 🏆 I have more than a 1 year of commercial experience 
+- 🏆 I have more than a 1 year of commercial experience with frontend
 - ⭐ 3 command projects and 7 pet-projects
 - 📢 Background as a digital marketing manager
 - 🌎 Intermediate level English
